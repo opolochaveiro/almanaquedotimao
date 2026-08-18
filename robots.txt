@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://almanaquedotimao.com.br/sitemap.xml
